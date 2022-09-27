@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Yogurt",
       "category": "Dairy",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "id": 2,
@@ -35,6 +35,192 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "cream",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "cream",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "cream",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 9
+    },
+    {
+      "name": "cream",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 10
+    },
+    {
+      "name": "cream",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 11
+    },
+    {
+      "name": "cream",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 12
+    },
+    {
+      "name": "mango juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 13
+    },
+    {
+      "name": "mango juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 14
+    },
+    {
+      "name": "mango juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 15
+    },
+    {
+      "name": "mango juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 16
+    },
+    {
+      "name": "mango juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 17
+    },
+    {
+      "name": "mango juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 18
+    },
+    {
+      "name": "mango juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 19
+    },
+    {
+      "name": "mango juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 20
+    },
+    {
+      "name": "mango juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 21
+    },
+    {
+      "name": "mango juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 22
+    },
+    {
+      "name": "mango juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 23
+    },
+    {
+      "name": "mango juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 24
+    },
+    {
+      "name": "mango juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 25
+    },
+    {
+      "name": "mango juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 26
+    },
+    {
+      "name": "mango juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 27
+    },
+    {
+      "name": "mango juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 28
+    },
+    {
+      "name": "mango juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 29
+    },
+    {
+      "name": "mango juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 30
+    },
+    {
+      "name": "mango juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 31
+    },
+    {
+      "name": "mango juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 32
+    },
+    {
+      "name": "mango juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 33
+    },
+    {
+      "name": "mango juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 34
+    },
+    {
+      "name": "mango juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 35
+    },
+    {
+      "name": "mango juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 36
+    },
+    {
+      "name": "",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 37
     }
   ]
 }
